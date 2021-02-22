@@ -1,6 +1,6 @@
 
 
-> ## There's that line from Newton about standing on the shoulders of giants. We're all standing on Dennis' shoulders.
+> ### "There's that line from Newton about standing on the shoulders of giants. We're all standing on Dennis' shoulders."
 > 
 > -- *Brian Kernighan*
 
