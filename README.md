@@ -1,8 +1,8 @@
 
 
-> There's that line from Newton about standing on the shoulders of giants. We're all standing on Dennis' shoulders.
+> ## There's that line from Newton about standing on the shoulders of giants. We're all standing on Dennis' shoulders.
 > 
-> -- <em>Brian Kernighan</em>
+> -- *Brian Kernighan*
 
 <!--
 **jfernandz/jfernandz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
