@@ -4,6 +4,8 @@
 > 
 > -- *Brian Kernighan*
 
+[![wakatime](https://wakatime.com/badge/user/a756bb91-0d8b-4d0e-baf6-06b87e209636.svg)](https://wakatime.com/@a756bb91-0d8b-4d0e-baf6-06b87e209636)
+
 <!--
 **jfernandz/jfernandz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
